@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.padreati.rapaiostudio2.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.padreati.rapaiostudio2.MyBundle
 
 class MyApplicationService {
 
